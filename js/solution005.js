@@ -17,3 +17,7 @@ function descendingOrder(n){
 }
 
 console.log(descendingOrder(10297))
+
+// function descendingOrder(n){
+//     return parseInt(String(n).split('').sort().reverse().join(''))
+//   }
